@@ -46,14 +46,8 @@ Sairam S, Sara G, Shivam S — *TMLR, 2026*
 
 <br>
 
-### Stack
-
-Python · PyTorch · NumPy
-
-<br>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sairam-sundararaman&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&bg_color=00000000" width="450" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-sundararaman&theme=github-dark-blue&hide_border=true&background=00000000" width="450" alt="GitHub commit streak" />
 
 </div>
