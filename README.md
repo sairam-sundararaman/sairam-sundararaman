@@ -48,6 +48,6 @@ Sairam S, Sara G, Shivam S — *TMLR, 2026*
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-sundararaman&theme=github-dark-blue&hide_border=true&background=00000000" width="450" alt="GitHub commit streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-sundararaman&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub commit streak" />
 
 </div>
