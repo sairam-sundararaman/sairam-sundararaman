@@ -16,13 +16,13 @@ Final-year CS (AI&ML) @ PES University · Research Intern @ [WSAI, IIT Madras](h
 
 ### About
 
-I work on the theoretical and empirical edges of ML: privacy guarantees for transformer models, and failure modes of optimization/quantization methods. I prefer questions where the analysis constrains the answer rather than the other way around.
+I work on the theoretical and empirical edges of ML: privacy guarantees for transformer models, and failure modes of optimization methods. I prefer questions where the analysis constrains the answer rather than the other way around.
 
 <br>
 
 ### Current focus
 
-- Differentially private mechanisms for transformer LLMs — sensitivity analysis, Gaussian mechanism calibration, zCDP composition. Preprint in preparation.
+- Differentially private mechanisms for transformers — privacy mechanisms, compositions and analysis. 
 
 <br>
 
@@ -42,7 +42,10 @@ I work on the theoretical and empirical edges of ML: privacy guarantees for tran
 
 **The Final-Stage Bottleneck: A Systematic Dissection of the R-Learner for Network Causal Inference**
 Sairam S, Sara G, Shivam S — *TMLR, 2026*
-[paper](https://arxiv.org/abs/2511.13018) · [code](https://github.com/sairam-sundararaman/final-stage-bottleneck) · [openreview](https://openreview.net/forum?id=QIE0FVSn0p)
+
+[![Paper](https://img.shields.io/badge/paper-arXiv-000000?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.13018)
+[![Code](https://img.shields.io/badge/code-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/sairam-sundararaman/final-stage-bottleneck)
+[![OpenReview](https://img.shields.io/badge/openreview-review-000000?style=flat-square&logo=readdotcv&logoColor=white)](https://openreview.net/forum?id=QIE0FVSn0p)
 
 <br>
 
